@@ -1,0 +1,21 @@
+.title {
+    text-decoration: underline;
+}
+
+.img {
+    outline-style: outset;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+.img {
+    outline-color: red;
+    border-radius: 5px;
+}
+
+.class{
+    color: red;
+}
